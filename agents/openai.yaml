@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dan Koe Perspective / Dan Koe 视角"
+  short_description: "Bilingual Dan Koe creator-business lens"
+  default_prompt: "Use $dan-koe-perspective / 用 $dan-koe-perspective 分析这个 creator-business 决策。"
