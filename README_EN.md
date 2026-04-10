@@ -31,11 +31,11 @@ Use it to analyze content positioning, creator businesses, AI workflow, and life
 
 ---
 
-`dan-koe-perspective` is a local Codex skill. It turns Dan Koe's public thinking about creator business, writing, AI leverage, one-person businesses, and life design into a runnable perspective you can directly use in conversations.
+`dan-koe-skill` is a local Codex skill. It turns Dan Koe's public thinking about creator business, writing, AI leverage, one-person businesses, and life design into a runnable perspective you can directly use in conversations.
 
 ## What This Is
 
-`dan-koe-perspective` is a local Codex skill that responds through Dan Koe's public mental frameworks, especially for:
+`dan-koe-skill` is a local Codex skill that responds through Dan Koe's public mental frameworks, especially for:
 
 - personal brand and content positioning
 - writing and point of view
@@ -103,13 +103,13 @@ This skill centers on these recurring Dan Koe themes:
 Put this repository inside your Codex skills directory:
 
 ```powershell
-Copy-Item -Recurse .\dan-koe-perspective C:\Users\<YourUser>\.codex\skills\
+Copy-Item -Recurse .\dan-koe-skill C:\Users\<YourUser>\.codex\skills\
 ```
 
 Or clone/copy it directly to:
 
 ```text
-~/.codex/skills/dan-koe-perspective
+~/.codex/skills/dan-koe-skill
 ```
 
 Then restart Codex so the skill can be loaded.
@@ -139,7 +139,7 @@ You can test the skill with questions like:
 ## Repo Structure
 
 ```text
-dan-koe-perspective/
+dan-koe-skill/
 ├── README.md
 ├── README_EN.md
 ├── SKILL.md
